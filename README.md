@@ -1,0 +1,24 @@
+# Data-Science-Books-to-read-2025
+
+- "Python for Data Analysis" by Wes McKinney
+- "Data Science for Business" by Foster Provost and Tom Fawcett
+- "Head First Statistics" by Dawn Griffiths
+- "R for Data Science" by Hadley Wickham and Garrett Grolemund
+- "Practical Statistics for Data Scientists" by Peter Bruce and Andrew Bruce
+- "Machine Learning Yearning" by Andrew Ng (Free PDF)
+- "Storytelling with Data" by Cole Nussbaumer Knaflic
+- "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron
+- "Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
+- "The Elements of Statistical Learning" by Trevor Hastie, Robert Tibshirani, and Jerome Friedman
+- "Pattern Recognition and Machine Learning" by Christopher M. Bishop
+- "Data Science from Scratch" by Joel Grus
+- "Bayesian Data Analysis" by Andrew Gelman et al.
+- "Natural Language Processing with Python" by Steven Bird, Ewan Klein, and Edward Loper
+- "Advanced R" by Hadley Wickham
+- Artificial Intelligence: A Guide to Intelligent Systems" by Michael Negnevitsky
+- "Artificial Intelligence: Foundations of Computational Agents" by David Poole and Alan Mackworth
+- "Artificial Intelligence for Humans" (Series) by Jeff Heaton
+- "AI Superpowers: China, Silicon Valley, and the New World Order" by Kai-Fu Lee
+- "Life 3.0: Being Human in the Age of Artificial Intelligence" by Max Tegmark
+- "Deep Learning for Computer Vision" by Rajalingappaa Shanmugamani
+- "Artificial Intelligence: A New Synthesis" by Nils J. Nilsson
