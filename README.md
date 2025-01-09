@@ -3,7 +3,7 @@
 - "Python for Data Analysis" by Wes McKinney : https://wesmckinney.com/book/
 - "Data Science for Business" by Foster Provost and Tom Fawcett
 - "Head First Statistics" by Dawn Griffiths
-- "R for Data Science" by Hadley Wickham and Garrett Grolemund : ds.hadley.nz
+- "R for Data Science" by Hadley Wickham and Garrett Grolemund : [ds.hadley.nz](https://r4ds.hadley.nz/)
 - "Practical Statistics for Data Scientists" by Peter Bruce and Andrew Bruce
 - "Machine Learning Yearning" by Andrew Ng (Free PDF) : https://github.com/ajaymache/machine-learning-yearning/blob/master/full%20book/machine-learning-yearning.pdf
 - "Storytelling with Data" by Cole Nussbaumer Knaflic : https://github.com/Saurav6789/Books-/blob/master/storytelling-with-data-cole-nussbaumer-knaflic.pdf
