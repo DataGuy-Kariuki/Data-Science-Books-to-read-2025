@@ -1,12 +1,12 @@
 # Data-Science-Books-to-read-2025
 
-- "Python for Data Analysis" by Wes McKinney
+- "Python for Data Analysis" by Wes McKinney : https://wesmckinney.com/book/
 - "Data Science for Business" by Foster Provost and Tom Fawcett
 - "Head First Statistics" by Dawn Griffiths
-- "R for Data Science" by Hadley Wickham and Garrett Grolemund
+- "R for Data Science" by Hadley Wickham and Garrett Grolemund : ds.hadley.nz
 - "Practical Statistics for Data Scientists" by Peter Bruce and Andrew Bruce
-- "Machine Learning Yearning" by Andrew Ng (Free PDF)
-- "Storytelling with Data" by Cole Nussbaumer Knaflic
+- "Machine Learning Yearning" by Andrew Ng (Free PDF) : https://github.com/ajaymache/machine-learning-yearning/blob/master/full%20book/machine-learning-yearning.pdf
+- "Storytelling with Data" by Cole Nussbaumer Knaflic : https://github.com/Saurav6789/Books-/blob/master/storytelling-with-data-cole-nussbaumer-knaflic.pdf
 - "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron
 - "Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
 - "The Elements of Statistical Learning" by Trevor Hastie, Robert Tibshirani, and Jerome Friedman
