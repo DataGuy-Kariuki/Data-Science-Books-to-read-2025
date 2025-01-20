@@ -22,3 +22,4 @@
 - "Life 3.0: Being Human in the Age of Artificial Intelligence" by Max Tegmark
 - "Deep Learning for Computer Vision" by Rajalingappaa Shanmugamani
 - "Artificial Intelligence: A New Synthesis" by Nils J. Nilsson
+-  credit scoring : https://en.wikipedia.org/wiki/Credit_scorecards
