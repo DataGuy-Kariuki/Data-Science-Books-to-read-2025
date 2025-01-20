@@ -23,3 +23,4 @@
 - "Deep Learning for Computer Vision" by Rajalingappaa Shanmugamani
 - "Artificial Intelligence: A New Synthesis" by Nils J. Nilsson
 -  credit scoring : https://en.wikipedia.org/wiki/Credit_scorecards
+-  CREDIT SCORING KAGGLE : https://www.kaggle.com/code/rohitudageri/credit-card-approval-prediction-ml-93-recall#Machine-Learning-Development-LifeCycle-(MLDLC)
